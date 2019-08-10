@@ -1,2 +1,2 @@
 # eamirgh.github.io
-### My resume template
+### My github page template
